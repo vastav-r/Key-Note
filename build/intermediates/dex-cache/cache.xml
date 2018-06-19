@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\482f360f168b7dd3d04ad27859b91d3d96d94a09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_6cb6867eb3815256192c0e996e154e241ca901da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\e119e6c1300955b00caff2f68b851eeb8705ef69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_962b61256780c4bd536db42de1198c4a04373eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_40fb34ea5a550bbcff95ec1402685370d55b6b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\21c09b6cc37902a3cebd33a54684bc99654160a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_48c24e61b7b79ed7a6c5358d54a023ac02747f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\483fe267bd110269d41e537d2325fc41bc93e069\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_76cbad8f9af128fab59fe47098d8370da34662e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\e03ec56fb63354ed5ca3a6ad201021c4d34f8372\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_99f787ca58471753f97c0463ee38346761ce76eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_53b161513b2e85d1e158d2657b8278b7db52d1d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbb5ee85955f0f36e859dcf3bba307ee52944121">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5c24419f0f18fa80f9314be40fac800ce85c7c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\bf959b688e8217e0cc5a50cbe6ac1be53a22f6f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_20a3d4c687c21ad7da9a02bf9b0ce9d4f2704721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\c1b7bc8321d05835413fcdace7866dd7f636d210\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_4d0c6ab207390a67bd43899845644b9345281ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_dbf9a8174083b6009ef14b03380db8d2c718ccde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\b08e4c8e39cf3b1b273c50eb816ff6beaec250bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_0fd111023a6784f247b121cee414617661069c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_ace32e5a639b55f1a5d718f51485511a098db58d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\8649882ef067f65c27cbb45d5d4e0692b2028b45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_ef064584c7254d42aad38931db86653fcb61fea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\b8892fb36a0d3fe11746a42aba1e1c6e70778585\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_5d9b93ecf74e48d1b746fb4ae4ec9060ff1caf2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\78eafcf28ba9defed98f1a63053eaf52bcf3669f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_258d1dbe54512063de07e72a65250acf7817e52d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\c67bfc359c455488915d7b58cd58d664cb5efe20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_1f75acdbaad3ad80eb8a57f5e67c87bb9cbb742e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\39d3e7751299b7d93080d99a0bab3211eb298ac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_5ebb698f1915187a4b4d65df20331b24cbd00b78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53d383418c2bb9a004f5a62e1adc2e96af4b873b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\dd5e287e7f7a591cdf03aa0f74ecf9fcb198eec0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_f37acdf0e10d29d837cda48253da30b85713ea55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\dc127264892ff137a4da09bcb9d0b078636899e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_67a3236d09844c18ddf0ec1e8e2207083dc4d284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\3ac1d0c443b867c1226fa21dffe598c9fd5aa907\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_b21745998ed6e58ed31d2af37c9c61b291085400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\a3f2ffe47808b253de1a3501ac52b66272775439\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_d808e2f9ceb269d3de909ba188b31f38088131d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_4cdafc7125a9dfbc90fd31de86f97585986759e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\43e44c166f7a84d5f05936d431d906dd993024c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_f082c0ca72fb0050b617baf1054d5ea8a347492e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_46aef5cdea517aa4e09ee55ff5af2a2e80fbeb21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\7b3091ed75dec273529515d4d0d93bf4cc0e64e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_99324b364eef130aa4c36e93fe782a18f756f21a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\130323a326dfb810546d4fa8e14f4f066e5496b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_240393fc224b99d9de6fc2094b37b4022423f630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_0ea08e8db5c068fe1919448285a3cc716738c32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_21ff07340f07224059989a6f082d7a43bd182738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\ef737a9e66f3fe0f7ae1f9972bb7809b9789a208\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_6bffd344e7815a0eb4906c96e75cb2069dcf4478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\aeffd408fe3add941d8548edcda4284465b936b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_4bc1bb6d920ec7cf7303a04cccae7292da2a30e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\fdf469893be657d4b14d4369fc003f5a03c4b546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_f74f0895ea67d6732c2e9699b8702c6a947fd4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\32e1d704dc990c057ee7e8c08cf8d795d637fb8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_981016f1e570c9aac202c883facc260127911d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\7434202e914840393b17d8f3dcc6b8ec627c3881\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_76cc2785af9bdd6f7458fde06abb9743611282c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\cceaa48a403aae780c0d78bb5a856f31a88295f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_b13fb500b2cd56618a8e6768f6b76e70a23e6e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\02a5a85c46021a02896be96d73c51c53cd26a8cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_7113b09bfd0cf65191fd1759fbaa37c508999ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\b169566109ae626966529eb489be6c9499c88cf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_a50ddce86768e5e3e14d80746de5748dc6ccae79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4693d3c62d1656cdda5054450744f482d63ca18a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VastaV\.android\build-cache\8d09b2b433b882c4305c1e41b1d6a10a667d84b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\VastaV\Desktop\vit\KeyNote\app\build\intermediates\pre-dexed\debug\classes_267114e02e55af53db7baea29121b91228b3f2eb.jar" />
+    </item>
+
+</items>
