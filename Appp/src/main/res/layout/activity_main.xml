@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+    <Button
+        android:id="@+id/Memo"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FFEB3B"
+        android:layout_margin="20dp"
+        android:text="Memo"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/Camera"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FFEB3B"
+        android:padding="25dp"
+        android:layout_margin="20dp"
+        android:text="camera"
+
+        android:textSize="20sp"
+         />
+
+    <Button
+        android:id="@+id/Scribble"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FFEB3B"
+        android:padding="25dp"
+        android:text="scribble"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/Quotes"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FFEB3B"
+        android:text="quotes"
+        android:layout_margin="20dp"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/Checklist"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#ffeb3b"
+        android:layout_margin="20dp"
+        android:text="checklist"
+        android:textSize="20sp"
+        />
+</LinearLayout>

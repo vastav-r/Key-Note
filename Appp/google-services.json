@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437811648165",
+    "firebase_url": "https://keynote-d282c.firebaseio.com",
+    "project_id": "keynote-d282c",
+    "storage_bucket": "keynote-d282c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437811648165:android:a358b80e9cf450a8",
+        "android_client_info": {
+          "package_name": "com.mad.vastav.keynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437811648165-2vlv8b40hiis6cffbselbrslbb88huua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.vastav.keynote",
+            "certificate_hash": "19dbef16fac1be4ed846ec61db4e00bcbf05d99f"
+          }
+        },
+        {
+          "client_id": "437811648165-sf4b58vg3im4dokecknbcgk25br1lsbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoMEyO16hWhIuAjfUcfETzyN0iMricNRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437811648165-sf4b58vg3im4dokecknbcgk25br1lsbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

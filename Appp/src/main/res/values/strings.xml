@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeyNote</string>
+    <string name="main_margin">10dp</string>
+</resources>
